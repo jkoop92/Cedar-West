@@ -26,7 +26,7 @@ In your Formspree dashboard, set the notification email to wherever leads should
 
 ## Before you go live
 - [ ] Update `og:url` / `canonical` in `index.html` and `sitemap.xml` once you know the final Netlify/custom domain
-- [ ] Confirm floor plan pricing — currently the form lets users pick "Studio/1BR/2BR/3BR/Not Sure" without listing prices, since none were provided. Add a floor-plans section with pricing whenever you have it.
+- [x] Floor plan pricing — a "Floor Plans & Pricing" section (Studio&ndash;2 BR, 1&ndash;2 baths, $1,245&ndash;$1,825/mo) is live between the feature strip and amenities. Update `#floor-plans` in `index.html` if pricing changes.
 - [ ] Double check the embedded Google Map pin looks right for 4530 Cedar Heights Drive
 - [ ] If you want call tracking, swap `tel:+13195053056` for a tracking number
 
