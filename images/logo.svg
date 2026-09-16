@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 900" role="img" aria-label="Cedar West Apartments logo">
+  <g fill="none" stroke="#12213f" stroke-width="34" stroke-linecap="square">
+    <!-- C -->
+    <path d="M 470 60 A 220 220 0 1 0 470 400" />
+    <!-- W -->
+    <path d="M 150 310 L 300 700 L 400 470 L 500 700 L 650 310" stroke-linejoin="miter" />
+  </g>
+  <text x="380" y="800" text-anchor="middle" font-family="'Poppins','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="92" letter-spacing="6" fill="#12213f">CEDAR WEST</text>
+  <text x="380" y="855" text-anchor="middle" font-family="'Poppins','Helvetica Neue',Arial,sans-serif" font-weight="400" font-size="46" letter-spacing="14" fill="#12213f">APARTMENTS</text>
+</svg>
